@@ -1,0 +1,1 @@
+Make sure the Python file and the .txt file are in the same folder when executing
